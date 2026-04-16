@@ -40,8 +40,9 @@ h2 {
   border-bottom: 1px dashed whitesmoke; 
   padding: 10px 0;
 }
-.city:last-child{
-    border-bottom: none;}
+.city:last-of-type {
+  border-bottom: none;
+}
 
 .date {
   color: #93D9EC;
