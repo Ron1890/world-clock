@@ -61,7 +61,8 @@ cityTimeZone=moment.tz.guess();
           ${cityTime.format("h:mm:ss")} <small>${cityTime.format("A")}</small>
         </div>
       </div>
-      <a href="index.html">Back to Homescreen<a>
+      <div class=home-link>
+      <a href= "index.html">Back to Homepage</a> </div>
     `;
   }
 

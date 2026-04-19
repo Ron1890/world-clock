@@ -54,11 +54,30 @@ h2 {
   font-weight: bold;
 }
 
+.home-link {
+  margin-top: 20px;
+  text-align: left;
+  font-size: 14px;
+}
+
+.home-link a {
+  color: #825de1;
+  text-decoration:underline;
+}
+
+
+
+
 footer {
   text-align: center;
-  font-size: 10px;
+  font-size: 14px;
   color: #0ae954;
 }
 a{
     color: #825de1;
+}
+
+ a:hover {
+  text-decoration: underline;
+  cursor: pointer;
 }
